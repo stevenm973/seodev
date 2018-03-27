@@ -1,0 +1,2 @@
+# seodev
+SEO DEV Theme
